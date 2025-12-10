@@ -26,5 +26,3 @@ pip install pandas scikit-learn
 python main.py
 ```
 
-## 👨‍💻 Author
-Spoorthy – 2025 Smart Mobility ML Project
